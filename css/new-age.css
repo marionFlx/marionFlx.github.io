@@ -302,7 +302,7 @@ section.cta {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/bg-cta.jpg');
+  background-image: url('../img/girl-tech.jpg');
   padding: 250px 0;
 }
 section.cta .cta-content {
@@ -329,6 +329,7 @@ section.cta .overlay {
   top: 0;
   left: 0;
 }
+
 section.contact {
   text-align: center;
 }
