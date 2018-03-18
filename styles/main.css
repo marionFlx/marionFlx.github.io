@@ -1,28 +1,10 @@
 /*!
 
  =========================================================
- * Now-ui-kit - v1.1.0
+ * CSS CV
+ * Primary Color : #FC1A65;
+ * $primary-color-opacity: rgba(252, 26, 101, 0.6);
  =========================================================
-
- * Product Page: http://www.creative-tim.com/product/now-ui-kit
- * Copyright 2017 Creative Tim (http://www.creative-tim.com)
- * Licensed under MIT (https://github.com/creativetimofficial/now-ui-kit/blob/master/LICENSE.md)
-
- * Designed by www.invisionapp.com Coded by www.creative-tim.com
-
- =========================================================
-
- * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
- */
-/*     brand Colors              */
-/*      light colors         */
-/* ========================================================================
- * bootstrap-switch - v3.3.2
- * http://www.bootstrap-switch.org
- * ========================================================================
- * Copyright 2012-2013 Mattia Larentis
- * http://www.apache.org/licenses/LICENSE-2.0
  */
 .bootstrap-switch {
   display: inline-block;
@@ -1515,7 +1497,7 @@ fieldset[disabled]
 }
 
 .btn-primary {
-  background-color: #fc1a65;
+  background-color: #FC1A65;
   color: #FFFFFF;
 }
 
@@ -2598,7 +2580,7 @@ textarea.form-control:focus, textarea.form-control:active {
 }
 
 .progress-container.progress-primary .progress {
-  background: rgba(55, 140, 63, 0.4);
+  background: rgba(63, 53, 122, 0.4);
 }
 
 .progress-container.progress-primary .progress-bar {
@@ -7049,8 +7031,8 @@ Created using IcoMoon - icomoon.io
   /* For Safari 5.1 to 6.0 */
   /* For Opera 11.1 to 12.0 */
   /* For Firefox 3.6 to 15 */
-  background: -webkit-gradient(linear, left bottom, left top, from(rgba(44, 44, 44, 0.2)), to(rgba(55, 140, 63, 0.6)));
-  background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(55, 140, 63, 0.6));
+  background: -webkit-gradient(linear, left bottom, left top, from(rgba(44, 44, 44, 0.2)), to(rgba(252, 26, 101, 0.6)));
+  background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(252, 26, 101, 0.6));
   /* Standard syntax */
 }
 
@@ -7096,7 +7078,7 @@ Created using IcoMoon - icomoon.io
 
 .cc-profile-image a:before {
   content: "";
-  border: 15px solid #fc1a65;
+  border: 15px solid rgba(252, 26, 101, 0.6);
   border-radius: 50%;
   height: 180px;
   width: 180px;
